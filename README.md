@@ -1,2 +1,2 @@
-# Hackaton
- rawr
+## Oto pomysł na mój projekt:
+> 
